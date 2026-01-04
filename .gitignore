@@ -1,6 +1,23 @@
+# Virtual   Environment
 venv/
+
+# Environment   Variables
 .env
+
+# Python   Cache
 __pycache__/
 *.pyc
+*.pyo
+
+# Mac   Files
 .DS_Store
+
+# IDE   Settings
 .idea/
+
+# Google   Credentials   (Gmail   API)
+credentials.json
+token.pickle
+
+# MyFxBook   Secrets
+.env
