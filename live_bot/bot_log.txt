@@ -1,0 +1,61 @@
+Connecting to Gmail...
+Connected to Gmail
+
+Fetching unread emails...
+No unread emails found.
+
+Found 0 unread email(s)
+
+0 signal(s) approved and sent to Telegram
+---    Run    completed    at    Sun Jan  4 10:55:03 CET 2026    ---
+Connecting to Gmail...
+Connected to Gmail
+
+Fetching unread emails...
+No unread emails found.
+
+Found 0 unread email(s)
+
+0 signal(s) approved and sent to Telegram
+--- Run completed at Sun Jan  4 10:56:50 CET 2026 ---
+Connecting to Gmail...
+Connected to Gmail
+
+Fetching unread emails...
+No unread emails found.
+
+Found 0 unread email(s)
+
+0 signal(s) approved and sent to Telegram
+--- Run completed at Sun Jan  4 11:02:03 CET 2026 ---
+Connecting to Gmail...
+Connected to Gmail
+
+Fetching unread emails...
+
+Found 2 unread email(s)
+
+TRADING SIGNAL DETECTED
+Action: SHORT
+Pair: EURCHF
+Subject: Alert: swing short EURCHF
+--------------------------------------------------
+APPROVED: Contrarian confirmed: 82% retail LONG vs our SHORT
+Strength: STRONG 💪
+Alert sent to Telegram
+Marked email 19b889fa16e594c9 as read
+--------------------------------------------------
+
+TRADING SIGNAL DETECTED
+Action: LONG
+Pair: AUDNZD
+Subject: Alert: long AUDNZD
+--------------------------------------------------
+APPROVED: Contrarian confirmed: 90% retail SHORT vs our LONG
+Strength: EXCELLENT 🔥
+Alert sent to Telegram
+Marked email 19b889f0c34d912b as read
+--------------------------------------------------
+
+2 signal(s) approved and sent to Telegram
+--- Run completed at Sun Jan  4 12:02:05 CET 2026 ---

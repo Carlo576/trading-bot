@@ -1,0 +1,14 @@
+Connecting to Gmail...
+Traceback (most recent call last):
+  File "/Users/carlo/trading-bot/live_bot/email_monitor.py", line 302, in <module>
+    service = get_gmail_service()
+  File "/Users/carlo/trading-bot/live_bot/email_monitor.py", line 82, in get_gmail_service
+    flow = InstalledAppFlow.from_client_secrets_file(
+        'credentials.json',
+        scopes=SCOPES
+    )
+  File "/Users/carlo/trading-bot/venv/lib/python3.14/site-packages/google_auth_oauthlib/flow.py", line 198, in from_client_secrets_file
+    with open(client_secrets_file, "r") as json_file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'credentials.json'
+--- Run completed at Sun Jan  4 12:58:50 CET 2026 ---
